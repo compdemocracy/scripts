@@ -12,6 +12,8 @@ python -m venv .venv --system-site-packages
 
 in the root folder. This lets you install additional Python packages without interfering with the main Anaconda installation.
 
+You may need to select the local `.venv` interpreter in your IDE at this point to run the virtual environment Python install.
+
 Once this is done, run
 
 ```

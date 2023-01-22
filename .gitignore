@@ -1,0 +1,11 @@
+.venv
+.ipynb_checkpoints
+*.output.csv
+*.cleanedup.*
+*.original.*
+data
+results
+.env
+chromedriver
+*.sh
+.DS_Store

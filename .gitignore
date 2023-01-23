@@ -1,0 +1,9 @@
+.vscode
+.venv
+.ipynb_checkpoints
+*.output.csv
+*.cleanedup.*
+*.original.*
+data
+.env
+.DS_Store

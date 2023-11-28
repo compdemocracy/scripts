@@ -34,7 +34,7 @@ Individual script folders will contain further instructions particular to that s
   * Use a `.env` file for secrets
   * Use `data` folder for input files
   * Name output files `<something>.output.csv`
-* Sometimes you may want to manually clean up data so that teh script can read it. Rename the original input file with `<filename>.original.<extension>` and create a copy called `<filename>.cleanedup.<extension>` for the file containing edits. Both will be ignored by Git.
+* Sometimes you may want to manually clean up data so that the script can read it. Rename the original input file with `<filename>.original.<extension>` and create a copy called `<filename>.cleanedup.<extension>` for the file containing edits. Both will be ignored by Git.
 * If you need a new library installing, add it to the root `requirements.txt`
 
 There are some common environment variables used in the scripts
